@@ -1,2 +1,0 @@
-somne configurations that were checked in after init
-need to pull the file down
