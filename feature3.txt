@@ -1,1 +1,5 @@
 feature3 implementation
+some configurations were checked in after init
+need to pull this file down
+adding some additional configurations
+found a couple of more config values that are needed
